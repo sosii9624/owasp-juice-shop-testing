@@ -39,7 +39,7 @@ http://localhost:3000
 
 ### Screenshot
 
-![screen shots](screenshots/juiceshop-home.png)
+![screen shots](screenshots/juiceshop-home2.png)
 
 ---
 
