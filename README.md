@@ -1,4 +1,4 @@
-# owasp-juice-shop-testing 
+
 # Web Application Security Testing – OWASP Juice Shop
 
 ## Project Overview
@@ -39,7 +39,7 @@ http://localhost:3000
 
 ### Screenshot
 
-![Juice Shop Homepage](screenshots/juiceshop-home.png)
+![screen shots](screenshots/juiceshop-home.png)
 
 ---
 
@@ -56,7 +56,7 @@ Detected technologies:
 
 ### Screenshot
 
-![Wappalyzer Result](screenshots/wappalyzer.png)
+![screen shots](screenshots/wappalyzer.png)
 
 ---
 
@@ -70,7 +70,7 @@ nmap -sV localhost
 
 ### Screenshot
 
-![Nmap Scan](screenshots/nmap-scan.png)
+![screen shots](screenshots/nmap-scan.png)
 
 ---
 
@@ -87,7 +87,7 @@ Steps performed:
 
 ### Screenshot
 
-![Burp Intercept](screenshots/burp-intercept.png)
+![screen shots](screenshots/burp-intercept.png)
 
 ---
 
@@ -103,7 +103,7 @@ The tool detected the backend database as SQLite and identified a vulnerable par
 
 ### Screenshot
 
-![SQLmap Result](screenshots/sqlmap-result.png)
+![screen shots](screenshots/sqlmap-result.png)
 
 ---
 
