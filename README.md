@@ -38,6 +38,7 @@ The application was accessed through the browser:
 http://localhost:3000
 
 ### Screenshot
+![screen shots](screenshots/juiceshop-home1.png)
 
 ![screen shots](screenshots/juiceshop-home2.png)
 
